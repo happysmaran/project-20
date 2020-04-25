@@ -17,8 +17,8 @@ function draw() {
   
   //to check deformation, change the speed and weight variable values
 
-  speed=80;
-  weight=400;
+  speed=120;
+  weight=1560;
 
   car.velocityX=speed;
 
